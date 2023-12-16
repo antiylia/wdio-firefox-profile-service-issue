@@ -1,0 +1,1 @@
+# wdio-firefox-profile-service-issue
