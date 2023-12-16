@@ -1,6 +1,6 @@
 # wdio-firefox-profile-service-issue
 
-Repo for reproducing: https://github.com/webdriverio/webdriverio/issues/
+Repo for reproducing: https://github.com/webdriverio/webdriverio/issues/11879 
 
 ## How to run
 1. `npm install`
